@@ -6,8 +6,7 @@
 
 ```sh
 git clone https://github.com/ephf/minlib.git
-sudo ./minlib/install.sh
-rm -rf minlib
+cd minlib && sudo ./install.sh
 ```
 
 ```c
